@@ -10,7 +10,7 @@
         MARGIN
         <div style="background-color: red; padding:50px; border:25px solid maroon; margin:50px" >  <!-- content -->
            PADDING
-           <p style="color:blue;background-color: yellow;">We are migrating this WebApp from GitHub into aws cloud using jenkins CI/CD Pipeline...</p></div>
+           <p style="color:blue;background-color: yellow;">We are migrating this WebApp from GitHub into aws cloud using jenkins CI/CD Pipeline to tomcat server</p></div>
         </div> 
   
 </body>
