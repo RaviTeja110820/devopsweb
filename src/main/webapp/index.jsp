@@ -5,9 +5,13 @@
           <meta content="text/html; charset=utf-8" />
     </head>
 <body>
-<h2> 
-    <audio src="aarongrooves_animator-vs-minecraft.mp3" controls></audio>
-	<h2> We are migrating this WebApp from GitHub into aws cloud using jenkins CI/CD Pipeline...</h2>
+    <div STYLE="background-color: aquamarine ;">
+        <h1>Box Model Layout</h1>
+        MARGIN
+        <div style="background-color: red; padding:50px; border:25px solid maroon; margin:50px" >  <!-- content -->
+           PADDING
+           <p style="color:blue;background-color: yellow;">We are migrating this WebApp from GitHub into aws cloud using jenkins CI/CD Pipeline...</p></div>
+        </div> 
   
 </body>
 </html>
